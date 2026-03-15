@@ -1,5 +1,5 @@
 # About Me:
-A software developer based in Czechia.
+A primarily Nette and PHP developer based in Czechia.
 
 
 # Tech Stack:
